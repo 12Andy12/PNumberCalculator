@@ -1,2 +1,2 @@
-# PNumberCalculator
-Calculator in different number systems, written in Qt
+# Калькулятор
+Калькулятор в разных системах счисления на Qt C++
